@@ -1,0 +1,31 @@
+1.Step 1
+npx create-react-app -client
+Create Package .json file
+npm init -y
+
+
+2.Step 2
+    create index .js file
+
+3.Step 3
+Create Scripts
+"start" : "node index.js"
+
+Step 4 
+open terminal mand execute command npm start
+
+Step 5 
+Install Express
+
+Step 6 
+insid index.js create express setup
+
+Step 7 
+npm start
+
+Step 8
+install nodemon
+npm i nodemon
+
+step 9
+npm start
